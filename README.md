@@ -4,4 +4,4 @@
 
 - 코딩스타일도 아직어릴 때임.
 
-![](C:\Users\crack\Desktop\applet.gif)
+![](applet.gif)
